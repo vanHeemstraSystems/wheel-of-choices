@@ -46,7 +46,7 @@
    - 5V/2.4A output minimum
    - Estimated: $35-45
    
-4. DC-DC Converter
+4. ~~DC-DC Converter~~
    - 5V to 12V Step-up
    - 3A minimum rating
    - Estimated: $12-15
