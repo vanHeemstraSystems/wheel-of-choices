@@ -1,6 +1,6 @@
-nom de référentiel
+roue de choix
 
-# Nom de référentiel
+# Wheel of Choices
 
 > Lisc
 
