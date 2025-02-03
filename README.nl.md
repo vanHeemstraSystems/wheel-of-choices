@@ -1,6 +1,6 @@
-wiel-van-koorts
+wheel-of-choices
 
-# Wiel van keuzes
+# Wheel of Choices
 
 > Sluglijn
 
@@ -18,7 +18,7 @@ wiel-van-koorts
 
 Tekst
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
