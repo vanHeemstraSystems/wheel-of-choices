@@ -5,12 +5,7 @@
 ## Core Components
 
 ### Primary Mechanical Components
-1. MOFLON MT120215 Through Bore Slip Ring
-   - 6-circuit minimum
-   - 120mm bore, 215mm OD
-   - Estimated: $280-350
-
-2. Turntable Motor
+1. Turntable Motor
    - 12V DC, ~78 RPM
    - Diameter ≤ 85mm
    - Examples: TYC50 or similar
