@@ -41,12 +41,7 @@
    - 5V/2.4A output minimum
    - Estimated: $35-45
    
-4. ~~DC-DC Converter~~
-   - 5V to 12V Step-up
-   - 3A minimum rating
-   - Estimated: $12-15
-
-5. Limit Switch
+3. Limit Switch
    - NC type, metal lever
    - 10A rated minimum
    - Estimated: $8-12
