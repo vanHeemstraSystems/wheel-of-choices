@@ -1,6 +1,6 @@
-roue de choix
+wheel-of-choices
 
-# Wheel of Choices
+# Roue des choix
 
 > Lisc
 
