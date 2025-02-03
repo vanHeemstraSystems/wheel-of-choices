@@ -1,6 +1,6 @@
 عجلة الخيارات
 
-# عجلة الخيارات
+# Wheel of Choices
 
 > Slugline
 
