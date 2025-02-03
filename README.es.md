@@ -5,10 +5,10 @@ rueda de elección
 > Línea de babosa
 
 -   [DNS](./DNS.md)
--   [Documentación](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
@@ -18,7 +18,7 @@ rueda de elección
 
 Texto
 
-Generado con[Ritro](https://app.rytr.me)
+Generated with [Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
@@ -28,7 +28,7 @@ Ver[README.md](./100/README.md)
 
 Ver[README.md](./200/README.md)
 
-## 300 - Construyendo nuestra aplicación
+## 300 - Building Our Application
 
 Ver[README.md](./300/README.md)
 
