@@ -1,6 +1,6 @@
-repository-name
+選擇輪
 
-# 存儲庫名稱
+# 選擇輪
 
 > 板條
 
@@ -11,7 +11,7 @@ repository-name
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [要求](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
@@ -28,7 +28,7 @@ repository-name
 
 看[README.md](./200/README.md)
 
-## 300-構建我們的應用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
