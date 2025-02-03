@@ -1,6 +1,6 @@
-repositorio
+rueda de elección
 
-# Nombre de repositorio
+# Rueda de las opciones
 
 > Línea de babosa
 
@@ -14,7 +14,7 @@ repositorio
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Resumen ejecutivo**
+**Executive Summary**
 
 Texto
 
