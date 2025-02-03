@@ -11,7 +11,7 @@ roue de choix
 -   [Images](./IMAGES.md)
 -   [Sous-homme](./PODMAN.md)
 -   [Références](./REFERENCES.md)
--   [Exigences](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
