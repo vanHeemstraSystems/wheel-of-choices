@@ -7,7 +7,7 @@ repository-name
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主辦單位](./HOSTS.md)
+-   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -18,7 +18,7 @@ repository-name
 
 文字
 
-生成於[ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
@@ -32,6 +32,6 @@ repository-name
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400-結論
 
 看[README.md](./400/README.md)
