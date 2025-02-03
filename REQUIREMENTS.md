@@ -34,17 +34,18 @@
    - Estimated: $25 each
    Total: $50
 
-2. Power Supply Components
+2. Power Supply Components<br/>
+   Based on [The LIGHTEST power banks in the WORLD (or that I could find…) || One FAILED on my thru hike](https://www.youtube.com/watch?v=gC5rn5lFWP0)
    - Anker PowerBank (10000mAh minimum)
    - 5V/2.4A output minimum
    - Estimated: $35-45
    
-3. DC-DC Converter
+4. DC-DC Converter
    - 5V to 12V Step-up
    - 3A minimum rating
    - Estimated: $12-15
 
-4. Limit Switch
+5. Limit Switch
    - NC type, metal lever
    - 10A rated minimum
    - Estimated: $8-12
