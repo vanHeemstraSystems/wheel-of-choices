@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+wheel-of-choices
+# Wheel of Choices
 
 > Slugline
 
