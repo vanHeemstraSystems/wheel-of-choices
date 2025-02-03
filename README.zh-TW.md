@@ -11,7 +11,7 @@
 -   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
@@ -28,7 +28,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300-構建我們的應用程序
 
 看[README.md](./300/README.md)
 
