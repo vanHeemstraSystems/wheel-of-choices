@@ -1,6 +1,6 @@
 Rad-of-Choices
 
-# Rad der Auswahl
+# Wheel of Choices
 
 > Slugline
 
