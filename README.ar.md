@@ -1,11 +1,11 @@
 عجلة الخيارات
 
-# Wheel of Choices
+# عجلة الخيارات
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -28,7 +28,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
