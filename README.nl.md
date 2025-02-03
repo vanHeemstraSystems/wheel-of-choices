@@ -5,7 +5,7 @@ repository-naam
 > Sluglijn
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
