@@ -1,6 +1,6 @@
 rueda de elección
 
-# Rueda de las opciones
+# Wheel of Choices
 
 > Línea de babosa
 
@@ -9,12 +9,12 @@ rueda de elección
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Submario](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
