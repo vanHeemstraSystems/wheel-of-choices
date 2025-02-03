@@ -36,6 +36,12 @@
 
 2. Power Supply Components<br/>
    Based on [The LIGHTEST power banks in the WORLD (or that I could find…) || One FAILED on my thru hike](https://www.youtube.com/watch?v=gC5rn5lFWP0)
+   - [Nitecore NB10000 powerbank Lithium-Ion (Li-Ion) 10000 mAh Zwart](https://www.amazon.nl/Nitecore-NB10000-powerbank-Lithium-Ion-Li-Ion/)
+   - 12V output
+   - 10000 mAh
+   - Estimated: €59,60
+  
+   Alternatively:
    - Anker PowerBank (10000mAh minimum)
    - 5V/2.4A output minimum
    - Estimated: $35-45
