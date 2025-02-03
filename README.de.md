@@ -18,7 +18,7 @@ Rad-of-Choices
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Erzeugt mit[Rytr](https://app.rytr.me)
 
 ## 100 - Einführung
 
