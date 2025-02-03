@@ -14,7 +14,7 @@
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
-**執行摘要**
+**Executive Summary**
 
 文字
 
