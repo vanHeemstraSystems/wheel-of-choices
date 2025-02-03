@@ -1,6 +1,6 @@
-Repository-Namen
+Rad-of-Choices
 
-# Repository -Name
+# Rad der Auswahl
 
 > Slugline
 
