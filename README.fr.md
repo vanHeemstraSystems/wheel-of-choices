@@ -1,4 +1,4 @@
-wheel-of-choices
+roue de choix
 
 # Roue des choix
 
