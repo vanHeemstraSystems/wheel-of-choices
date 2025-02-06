@@ -26,4 +26,10 @@ This ASCII diagram shows:
 
 To configure a Shelly UNI PLus, connect to the Shelly's SSID with your WiFi enabled device (computer or tablet). Then open a browser to Shelly's IP address (192.168.33.1).
 
+Make the Shelly a part of your home WiFi network (the one that lets you onto the Internet) by adding this WiFi network and password to the Shelly.
 
+In addition, enable Shelly Cloud, so now you can reach your shelly through Shelly Cloud (here:  Connected at shelly-api-eu.shelly.cloud:6022/jrpc or go to https://control.shelly.cloud/ ).
+
+Switch your computer back from the Shelly SSID to your home WiFi network and use either the Shelly App, or Shelly Cloud to act with your Shelly UNI Plus.
+
+MORE ... like adding the electromagnets to the Shelly UNI Plus switches.
