@@ -1,4 +1,4 @@
-选择轮
+wheel-of-choices
 
 # 选择轮
 
@@ -7,7 +7,7 @@
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -34,4 +34,4 @@
 
 ## 400-结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
